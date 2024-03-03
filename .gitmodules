@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:JUNGELEC/JUNGELEC.github.io.git
+	branch = main
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = git@github.com:JUNGELEC/hugo-theme-stack.git
